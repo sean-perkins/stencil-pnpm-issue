@@ -1,0 +1,6 @@
+{
+  "name": "example",
+  "devDependencies": {
+    "@jest/core": "^26.0.0"
+  }
+}
